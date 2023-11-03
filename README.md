@@ -1,1 +1,1 @@
-## End - to - End Machnine learning projectgi
+## End - to - End Machnine learning project
